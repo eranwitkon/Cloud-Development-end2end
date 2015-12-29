@@ -1,0 +1,24 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "sample end to end development cycle using cloud services",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "load-grunt-initconfig": "0.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eranwitkon/Cloud-Development-end2end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eranwitkon/Cloud-Development-end2end/issues"
+  },
+  "homepage": "https://github.com/eranwitkon/Cloud-Development-end2end#readme"
+}
